@@ -1,0 +1,809 @@
+Removed Pin From Net: NetName=GND Pin=U1-A1
+Removed Pin From Net: NetName=GND Pin=U1-A14
+Removed Pin From Net: NetName=GND Pin=U1-A18
+Removed Pin From Net: NetName=GND Pin=U1-A19
+Removed Pin From Net: NetName=GND Pin=U1-A22
+Removed Pin From Net: NetName=GND Pin=U1-AA13
+Removed Pin From Net: NetName=GND Pin=U1-AA16
+Removed Pin From Net: NetName=GND Pin=U1-AB12
+Removed Pin From Net: NetName=GND Pin=U1-AB13
+Removed Pin From Net: NetName=GND Pin=U1-AB16
+Removed Pin From Net: NetName=GND Pin=U1-AB17
+Removed Pin From Net: NetName=GND Pin=U1-B2
+Removed Pin From Net: NetName=GND Pin=U1-B14
+Removed Pin From Net: NetName=GND Pin=U1-B18
+Removed Pin From Net: NetName=GND Pin=U1-B19
+Removed Pin From Net: NetName=GND Pin=U1-C3
+Removed Pin From Net: NetName=GND Pin=U1-C8
+Removed Pin From Net: NetName=GND Pin=U1-C11
+Removed Pin From Net: NetName=GND Pin=U1-C14
+Removed Pin From Net: NetName=GND Pin=U1-C15
+Removed Pin From Net: NetName=GND Pin=U1-C16
+Removed Pin From Net: NetName=GND Pin=U1-C17
+Removed Pin From Net: NetName=GND Pin=U1-C18
+Removed Pin From Net: NetName=GND Pin=U1-C19
+Removed Pin From Net: NetName=GND Pin=U1-C20
+Removed Pin From Net: NetName=GND Pin=U1-D4
+Removed Pin From Net: NetName=GND Pin=U1-D18
+Removed Pin From Net: NetName=GND Pin=U1-D19
+Removed Pin From Net: NetName=GND Pin=U1-E5
+Removed Pin From Net: NetName=GND Pin=U1-E18
+Removed Pin From Net: NetName=GND Pin=U1-E19
+Removed Pin From Net: NetName=GND Pin=U1-F6
+Removed Pin From Net: NetName=GND Pin=U1-F7
+Removed Pin From Net: NetName=GND Pin=U1-F8
+Removed Pin From Net: NetName=GND Pin=U1-F16
+Removed Pin From Net: NetName=GND Pin=U1-F17
+Removed Pin From Net: NetName=GND Pin=U1-F20
+Removed Pin From Net: NetName=GND Pin=U1-G4
+Removed Pin From Net: NetName=GND Pin=U1-G6
+Removed Pin From Net: NetName=GND Pin=U1-G8
+Removed Pin From Net: NetName=GND Pin=U1-G10
+Removed Pin From Net: NetName=GND Pin=U1-G12
+Removed Pin From Net: NetName=GND Pin=U1-G14
+Removed Pin From Net: NetName=GND Pin=U1-G16
+Removed Pin From Net: NetName=GND Pin=U1-G17
+Removed Pin From Net: NetName=GND Pin=U1-H7
+Removed Pin From Net: NetName=GND Pin=U1-H9
+Removed Pin From Net: NetName=GND Pin=U1-H11
+Removed Pin From Net: NetName=GND Pin=U1-H13
+Removed Pin From Net: NetName=GND Pin=U1-H15
+Removed Pin From Net: NetName=GND Pin=U1-H17
+Removed Pin From Net: NetName=GND Pin=U1-J8
+Removed Pin From Net: NetName=GND Pin=U1-J9
+Removed Pin From Net: NetName=GND Pin=U1-J10
+Removed Pin From Net: NetName=GND Pin=U1-J11
+Removed Pin From Net: NetName=GND Pin=U1-J12
+Removed Pin From Net: NetName=GND Pin=U1-J13
+Removed Pin From Net: NetName=GND Pin=U1-J14
+Removed Pin From Net: NetName=GND Pin=U1-J16
+Removed Pin From Net: NetName=GND Pin=U1-J17
+Removed Pin From Net: NetName=GND Pin=U1-J20
+Removed Pin From Net: NetName=GND Pin=U1-K3
+Removed Pin From Net: NetName=GND Pin=U1-K7
+Removed Pin From Net: NetName=GND Pin=U1-K9
+Removed Pin From Net: NetName=GND Pin=U1-K10
+Removed Pin From Net: NetName=GND Pin=U1-K11
+Removed Pin From Net: NetName=GND Pin=U1-K12
+Removed Pin From Net: NetName=GND Pin=U1-K13
+Removed Pin From Net: NetName=GND Pin=U1-K14
+Removed Pin From Net: NetName=GND Pin=U1-K15
+Removed Pin From Net: NetName=GND Pin=U1-K17
+Removed Pin From Net: NetName=GND Pin=U1-L8
+Removed Pin From Net: NetName=GND Pin=U1-L9
+Removed Pin From Net: NetName=GND Pin=U1-L10
+Removed Pin From Net: NetName=GND Pin=U1-L11
+Removed Pin From Net: NetName=GND Pin=U1-L12
+Removed Pin From Net: NetName=GND Pin=U1-L13
+Removed Pin From Net: NetName=GND Pin=U1-L14
+Removed Pin From Net: NetName=GND Pin=U1-L16
+Removed Pin From Net: NetName=GND Pin=U1-L17
+Removed Pin From Net: NetName=GND Pin=U1-L19
+Removed Pin From Net: NetName=GND Pin=U1-M4
+Removed Pin From Net: NetName=GND Pin=U1-M5
+Removed Pin From Net: NetName=GND Pin=U1-M6
+Removed Pin From Net: NetName=GND Pin=U1-M9
+Removed Pin From Net: NetName=GND Pin=U1-M11
+Removed Pin From Net: NetName=GND Pin=U1-M13
+Removed Pin From Net: NetName=GND Pin=U1-M15
+Removed Pin From Net: NetName=GND Pin=U1-M17
+Removed Pin From Net: NetName=GND Pin=U1-N5
+Removed Pin From Net: NetName=GND Pin=U1-N6
+Removed Pin From Net: NetName=GND Pin=U1-N8
+Removed Pin From Net: NetName=GND Pin=U1-N10
+Removed Pin From Net: NetName=GND Pin=U1-N12
+Removed Pin From Net: NetName=GND Pin=U1-N14
+Removed Pin From Net: NetName=GND Pin=U1-N16
+Removed Pin From Net: NetName=GND Pin=U1-P5
+Removed Pin From Net: NetName=GND Pin=U1-P6
+Removed Pin From Net: NetName=GND Pin=U1-P9
+Removed Pin From Net: NetName=GND Pin=U1-P11
+Removed Pin From Net: NetName=GND Pin=U1-P13
+Removed Pin From Net: NetName=GND Pin=U1-P15
+Removed Pin From Net: NetName=GND Pin=U1-P17
+Removed Pin From Net: NetName=GND Pin=U1-R5
+Removed Pin From Net: NetName=GND Pin=U1-R6
+Removed Pin From Net: NetName=GND Pin=U1-R10
+Removed Pin From Net: NetName=GND Pin=U1-R12
+Removed Pin From Net: NetName=GND Pin=U1-R14
+Removed Pin From Net: NetName=GND Pin=U1-R16
+Removed Pin From Net: NetName=GND Pin=U1-T6
+Removed Pin From Net: NetName=GND Pin=U1-T13
+Removed Pin From Net: NetName=GND Pin=U1-T15
+Removed Pin From Net: NetName=GND Pin=U1-T17
+Removed Pin From Net: NetName=GND Pin=U1-U6
+Removed Pin From Net: NetName=GND Pin=U1-U9
+Removed Pin From Net: NetName=GND Pin=U1-U12
+Removed Pin From Net: NetName=GND Pin=U1-U14
+Removed Pin From Net: NetName=GND Pin=U1-U16
+Removed Pin From Net: NetName=GND Pin=U1-V17
+Removed Pin From Net: NetName=GND Pin=U1-W18
+Removed Pin From Net: NetName=GND Pin=U1-Y13
+Removed Pin From Net: NetName=GND Pin=U1-Y14
+Removed Pin From Net: NetName=GND Pin=U1-Y15
+Removed Pin From Net: NetName=GND Pin=U1-Y19
+Removed Member From Class: ClassName=DDR Member=U?
+Added Component: Designator=C45(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C46(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C47(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C48(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C49(C 0603)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C50(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C51(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C52(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C53(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C54(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C55(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C56(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C57(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C58(C 0603)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C59(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C60(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C61(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C62(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C63(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C64(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C65(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C66(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C67(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C68(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C103(C 0603)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C103(C 0603)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C103(C 0603)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C104(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C104(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C104(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(3710F_2*50)
+Added Component: Designator=JP?(3710F_2*50)
+Added Component: Designator=R14(R 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=R18(R 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=R27(R 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=R30(R 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.openedv.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "正点原子"; VariantName = "[No Variations]"
+Added Component: Designator=U3(BGA96)
+Added Component: Designator=U4(BGA96)
+Change Net Name : Old Net Name=GND New Net Name=NetU1_AA4
+Added Pin To Net: NetName=DDR_A0 Pin=U3-N3
+Added Pin To Net: NetName=DDR_A0 Pin=U4-N3
+Added Net: Name=DDR_A0
+Added Pin To Net: NetName=DDR_A1 Pin=U3-P7
+Added Pin To Net: NetName=DDR_A1 Pin=U4-P7
+Added Net: Name=DDR_A1
+Added Pin To Net: NetName=DDR_A2 Pin=U3-P3
+Added Pin To Net: NetName=DDR_A2 Pin=U4-P3
+Added Net: Name=DDR_A2
+Added Pin To Net: NetName=DDR_A3 Pin=U3-N2
+Added Pin To Net: NetName=DDR_A3 Pin=U4-N2
+Added Net: Name=DDR_A3
+Added Pin To Net: NetName=DDR_A4 Pin=U3-P8
+Added Pin To Net: NetName=DDR_A4 Pin=U4-P8
+Added Net: Name=DDR_A4
+Added Pin To Net: NetName=DDR_A5 Pin=U3-P2
+Added Pin To Net: NetName=DDR_A5 Pin=U4-P2
+Added Net: Name=DDR_A5
+Added Pin To Net: NetName=DDR_A6 Pin=U3-R8
+Added Pin To Net: NetName=DDR_A6 Pin=U4-R8
+Added Net: Name=DDR_A6
+Added Pin To Net: NetName=DDR_A7 Pin=U3-R2
+Added Pin To Net: NetName=DDR_A7 Pin=U4-R2
+Added Net: Name=DDR_A7
+Added Pin To Net: NetName=DDR_A8 Pin=U3-T8
+Added Pin To Net: NetName=DDR_A8 Pin=U4-T8
+Added Net: Name=DDR_A8
+Added Pin To Net: NetName=DDR_A9 Pin=U3-R3
+Added Pin To Net: NetName=DDR_A9 Pin=U4-R3
+Added Net: Name=DDR_A9
+Added Pin To Net: NetName=DDR_A10 Pin=U3-L7
+Added Pin To Net: NetName=DDR_A10 Pin=U4-L7
+Added Net: Name=DDR_A10
+Added Pin To Net: NetName=DDR_A11 Pin=U3-R7
+Added Pin To Net: NetName=DDR_A11 Pin=U4-R7
+Added Net: Name=DDR_A11
+Added Pin To Net: NetName=DDR_A12 Pin=U3-N7
+Added Pin To Net: NetName=DDR_A12 Pin=U4-N7
+Added Net: Name=DDR_A12
+Added Pin To Net: NetName=DDR_A13 Pin=U3-T3
+Added Pin To Net: NetName=DDR_A13 Pin=U4-T3
+Added Net: Name=DDR_A13
+Added Pin To Net: NetName=DDR_A14 Pin=U3-T7
+Added Pin To Net: NetName=DDR_A14 Pin=U4-T7
+Added Net: Name=DDR_A14
+Added Pin To Net: NetName=DDR_BA0 Pin=U3-M2
+Added Pin To Net: NetName=DDR_BA0 Pin=U4-M2
+Added Net: Name=DDR_BA0
+Added Pin To Net: NetName=DDR_BA1 Pin=U3-N8
+Added Pin To Net: NetName=DDR_BA1 Pin=U4-N8
+Added Net: Name=DDR_BA1
+Added Pin To Net: NetName=DDR_BA2 Pin=U3-M3
+Added Pin To Net: NetName=DDR_BA2 Pin=U4-M3
+Added Net: Name=DDR_BA2
+Added Pin To Net: NetName=DDR_CAS Pin=U3-K3
+Added Pin To Net: NetName=DDR_CAS Pin=U4-K3
+Added Net: Name=DDR_CAS
+Added Pin To Net: NetName=DDR_CKE Pin=U3-K9
+Added Pin To Net: NetName=DDR_CKE Pin=U4-K9
+Added Net: Name=DDR_CKE
+Added Pin To Net: NetName=DDR_CKN Pin=R18-1
+Added Pin To Net: NetName=DDR_CKN Pin=U3-K7
+Added Pin To Net: NetName=DDR_CKN Pin=U4-K7
+Added Net: Name=DDR_CKN
+Added Pin To Net: NetName=DDR_CKP Pin=R18-2
+Added Pin To Net: NetName=DDR_CKP Pin=U3-J7
+Added Pin To Net: NetName=DDR_CKP Pin=U4-J7
+Added Net: Name=DDR_CKP
+Added Pin To Net: NetName=DDR_CS Pin=U3-L2
+Added Pin To Net: NetName=DDR_CS Pin=U4-L2
+Added Net: Name=DDR_CS
+Added Pin To Net: NetName=DDR_DM0 Pin=U4-E7
+Added Net: Name=DDR_DM0
+Added Pin To Net: NetName=DDR_DM1 Pin=U4-D3
+Added Net: Name=DDR_DM1
+Added Pin To Net: NetName=DDR_DM2 Pin=U3-E7
+Added Net: Name=DDR_DM2
+Added Pin To Net: NetName=DDR_DM3 Pin=U3-D3
+Added Net: Name=DDR_DM3
+Added Pin To Net: NetName=DDR_DQ0 Pin=U4-E3
+Added Net: Name=DDR_DQ0
+Added Pin To Net: NetName=DDR_DQ1 Pin=U4-G2
+Added Net: Name=DDR_DQ1
+Added Pin To Net: NetName=DDR_DQ2 Pin=U4-F2
+Added Net: Name=DDR_DQ2
+Added Pin To Net: NetName=DDR_DQ3 Pin=U4-H3
+Added Net: Name=DDR_DQ3
+Added Pin To Net: NetName=DDR_DQ4 Pin=U4-H8
+Added Net: Name=DDR_DQ4
+Added Pin To Net: NetName=DDR_DQ5 Pin=U4-F8
+Added Net: Name=DDR_DQ5
+Added Pin To Net: NetName=DDR_DQ6 Pin=U4-F7
+Added Net: Name=DDR_DQ6
+Added Pin To Net: NetName=DDR_DQ7 Pin=U4-H7
+Added Net: Name=DDR_DQ7
+Added Pin To Net: NetName=DDR_DQ8 Pin=U4-C3
+Added Net: Name=DDR_DQ8
+Added Pin To Net: NetName=DDR_DQ9 Pin=U4-A2
+Added Net: Name=DDR_DQ9
+Added Pin To Net: NetName=DDR_DQ10 Pin=U4-A3
+Added Net: Name=DDR_DQ10
+Added Pin To Net: NetName=DDR_DQ11 Pin=U4-C2
+Added Net: Name=DDR_DQ11
+Added Pin To Net: NetName=DDR_DQ12 Pin=U4-D7
+Added Net: Name=DDR_DQ12
+Added Pin To Net: NetName=DDR_DQ13 Pin=U4-B8
+Added Net: Name=DDR_DQ13
+Added Pin To Net: NetName=DDR_DQ14 Pin=U4-A7
+Added Net: Name=DDR_DQ14
+Added Pin To Net: NetName=DDR_DQ15 Pin=U4-C8
+Added Net: Name=DDR_DQ15
+Added Pin To Net: NetName=DDR_DQ16 Pin=U3-F2
+Added Net: Name=DDR_DQ16
+Added Pin To Net: NetName=DDR_DQ17 Pin=U3-G2
+Added Net: Name=DDR_DQ17
+Added Pin To Net: NetName=DDR_DQ18 Pin=U3-E3
+Added Net: Name=DDR_DQ18
+Added Pin To Net: NetName=DDR_DQ19 Pin=U3-H3
+Added Net: Name=DDR_DQ19
+Added Pin To Net: NetName=DDR_DQ20 Pin=U3-F8
+Added Net: Name=DDR_DQ20
+Added Pin To Net: NetName=DDR_DQ21 Pin=U3-H8
+Added Net: Name=DDR_DQ21
+Added Pin To Net: NetName=DDR_DQ22 Pin=U3-F7
+Added Net: Name=DDR_DQ22
+Added Pin To Net: NetName=DDR_DQ23 Pin=U3-H7
+Added Net: Name=DDR_DQ23
+Added Pin To Net: NetName=DDR_DQ24 Pin=U3-C2
+Added Net: Name=DDR_DQ24
+Added Pin To Net: NetName=DDR_DQ25 Pin=U3-D7
+Added Net: Name=DDR_DQ25
+Added Pin To Net: NetName=DDR_DQ26 Pin=U3-A3
+Added Net: Name=DDR_DQ26
+Added Pin To Net: NetName=DDR_DQ27 Pin=U3-A7
+Added Net: Name=DDR_DQ27
+Added Pin To Net: NetName=DDR_DQ28 Pin=U3-B8
+Added Net: Name=DDR_DQ28
+Added Pin To Net: NetName=DDR_DQ29 Pin=U3-C8
+Added Net: Name=DDR_DQ29
+Added Pin To Net: NetName=DDR_DQ30 Pin=U3-A2
+Added Net: Name=DDR_DQ30
+Added Pin To Net: NetName=DDR_DQ31 Pin=U3-C3
+Added Net: Name=DDR_DQ31
+Added Pin To Net: NetName=DDR_DQS0N Pin=U4-G3
+Added Net: Name=DDR_DQS0N
+Added Pin To Net: NetName=DDR_DQS0P Pin=U4-F3
+Added Net: Name=DDR_DQS0P
+Added Pin To Net: NetName=DDR_DQS1N Pin=U4-B7
+Added Net: Name=DDR_DQS1N
+Added Pin To Net: NetName=DDR_DQS1P Pin=U4-C7
+Added Net: Name=DDR_DQS1P
+Added Pin To Net: NetName=DDR_DQS2N Pin=U3-G3
+Added Net: Name=DDR_DQS2N
+Added Pin To Net: NetName=DDR_DQS2P Pin=U3-F3
+Added Net: Name=DDR_DQS2P
+Added Pin To Net: NetName=DDR_DQS3N Pin=U3-B7
+Added Net: Name=DDR_DQS3N
+Added Pin To Net: NetName=DDR_DQS3P Pin=U3-C7
+Added Net: Name=DDR_DQS3P
+Added Pin To Net: NetName=DDR_ODT Pin=U3-K1
+Added Pin To Net: NetName=DDR_ODT Pin=U4-K1
+Added Net: Name=DDR_ODT
+Added Pin To Net: NetName=DDR_RAS Pin=U3-J3
+Added Pin To Net: NetName=DDR_RAS Pin=U4-J3
+Added Net: Name=DDR_RAS
+Added Pin To Net: NetName=DDR_RST Pin=U3-T2
+Added Pin To Net: NetName=DDR_RST Pin=U4-T2
+Added Net: Name=DDR_RST
+Added Pin To Net: NetName=DDR_WE Pin=U3-L3
+Added Pin To Net: NetName=DDR_WE Pin=U4-L3
+Added Net: Name=DDR_WE
+Added Pin To Net: NetName=EMMC_CLK Pin=U?-M6
+Added Net: Name=EMMC_CLK
+Added Pin To Net: NetName=EMMC_CMD Pin=U?-M5
+Added Net: Name=EMMC_CMD
+Added Pin To Net: NetName=EMMC_D0 Pin=U?-A3
+Added Net: Name=EMMC_D0
+Added Pin To Net: NetName=EMMC_D1 Pin=U?-A4
+Added Net: Name=EMMC_D1
+Added Pin To Net: NetName=EMMC_D2 Pin=U?-A5
+Added Net: Name=EMMC_D2
+Added Pin To Net: NetName=EMMC_D3 Pin=U?-B2
+Added Net: Name=EMMC_D3
+Added Pin To Net: NetName=EMMC_D4 Pin=U?-B3
+Added Net: Name=EMMC_D4
+Added Pin To Net: NetName=EMMC_D5 Pin=U?-B4
+Added Net: Name=EMMC_D5
+Added Pin To Net: NetName=EMMC_D6 Pin=U?-B5
+Added Net: Name=EMMC_D6
+Added Pin To Net: NetName=EMMC_D7 Pin=U?-B6
+Added Net: Name=EMMC_D7
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=GND Pin=C48-1
+Added Pin To Net: NetName=GND Pin=C49-1
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=GND Pin=C51-1
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=GND Pin=C54-1
+Added Pin To Net: NetName=GND Pin=C55-1
+Added Pin To Net: NetName=GND Pin=C56-1
+Added Pin To Net: NetName=GND Pin=C57-1
+Added Pin To Net: NetName=GND Pin=C58-1
+Added Pin To Net: NetName=GND Pin=C59-1
+Added Pin To Net: NetName=GND Pin=C60-1
+Added Pin To Net: NetName=GND Pin=C61-1
+Added Pin To Net: NetName=GND Pin=C62-1
+Added Pin To Net: NetName=GND Pin=C63-1
+Added Pin To Net: NetName=GND Pin=C64-1
+Added Pin To Net: NetName=GND Pin=C65-1
+Added Pin To Net: NetName=GND Pin=C66-1
+Added Pin To Net: NetName=GND Pin=C68-1
+Added Pin To Net: NetName=GND Pin=C103-1
+Added Pin To Net: NetName=GND Pin=C103-1
+Added Pin To Net: NetName=GND Pin=C103-1
+Added Pin To Net: NetName=GND Pin=C104-1
+Added Pin To Net: NetName=GND Pin=C104-1
+Added Pin To Net: NetName=GND Pin=C104-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=GND Pin=U3-A9
+Added Pin To Net: NetName=GND Pin=U3-B1
+Added Pin To Net: NetName=GND Pin=U3-B3
+Added Pin To Net: NetName=GND Pin=U3-B9
+Added Pin To Net: NetName=GND Pin=U3-D1
+Added Pin To Net: NetName=GND Pin=U3-D8
+Added Pin To Net: NetName=GND Pin=U3-E1
+Added Pin To Net: NetName=GND Pin=U3-E2
+Added Pin To Net: NetName=GND Pin=U3-E8
+Added Pin To Net: NetName=GND Pin=U3-F9
+Added Pin To Net: NetName=GND Pin=U3-G1
+Added Pin To Net: NetName=GND Pin=U3-G8
+Added Pin To Net: NetName=GND Pin=U3-G9
+Added Pin To Net: NetName=GND Pin=U3-J2
+Added Pin To Net: NetName=GND Pin=U3-J8
+Added Pin To Net: NetName=GND Pin=U3-M1
+Added Pin To Net: NetName=GND Pin=U3-M9
+Added Pin To Net: NetName=GND Pin=U3-P1
+Added Pin To Net: NetName=GND Pin=U3-P9
+Added Pin To Net: NetName=GND Pin=U3-T1
+Added Pin To Net: NetName=GND Pin=U3-T9
+Added Pin To Net: NetName=GND Pin=U4-A9
+Added Pin To Net: NetName=GND Pin=U4-B1
+Added Pin To Net: NetName=GND Pin=U4-B3
+Added Pin To Net: NetName=GND Pin=U4-B9
+Added Pin To Net: NetName=GND Pin=U4-D1
+Added Pin To Net: NetName=GND Pin=U4-D8
+Added Pin To Net: NetName=GND Pin=U4-E1
+Added Pin To Net: NetName=GND Pin=U4-E2
+Added Pin To Net: NetName=GND Pin=U4-E8
+Added Pin To Net: NetName=GND Pin=U4-F9
+Added Pin To Net: NetName=GND Pin=U4-G1
+Added Pin To Net: NetName=GND Pin=U4-G8
+Added Pin To Net: NetName=GND Pin=U4-G9
+Added Pin To Net: NetName=GND Pin=U4-J2
+Added Pin To Net: NetName=GND Pin=U4-J8
+Added Pin To Net: NetName=GND Pin=U4-M1
+Added Pin To Net: NetName=GND Pin=U4-M9
+Added Pin To Net: NetName=GND Pin=U4-P1
+Added Pin To Net: NetName=GND Pin=U4-P9
+Added Pin To Net: NetName=GND Pin=U4-T1
+Added Pin To Net: NetName=GND Pin=U4-T9
+Added Pin To Net: NetName=GND Pin=U?-C4
+Added Pin To Net: NetName=GND Pin=U?-E7
+Added Pin To Net: NetName=GND Pin=U?-G5
+Added Pin To Net: NetName=GND Pin=U?-H10
+Added Pin To Net: NetName=GND Pin=U?-K8
+Added Pin To Net: NetName=GND Pin=U?-N2
+Added Pin To Net: NetName=GND Pin=U?-N5
+Added Pin To Net: NetName=GND Pin=U?-P4
+Added Pin To Net: NetName=GND Pin=U?-P6
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC103_2 Pin=C103-2
+Added Pin To Net: NetName=NetC103_2 Pin=C104-2
+Added Pin To Net: NetName=NetC103_2 Pin=U?-C2
+Added Net: Name=NetC103_2
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=U3-L8
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=U4-L8
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-A1
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-A19
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-A22
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-B2
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-B19
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-C3
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-C8
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-C11
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-C19
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-C20
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-D4
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-E5
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-E19
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-F6
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-F7
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-F8
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-F16
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-F20
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-G4
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-G6
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-G8
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-G10
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-G12
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-G14
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-G17
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-H7
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-J9
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-J11
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-J13
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-J17
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-J20
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-K3
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-K7
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-K10
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-K12
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-K14
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-L9
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-L11
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-L13
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-L17
+Added Pin To Net: NetName=NetU1_A1 Pin=U1-L19
+Added Net: Name=NetU1_A1
+Added Pin To Net: NetName=NetU1_A18 Pin=U1-A18
+Added Pin To Net: NetName=NetU1_A18 Pin=U1-B18
+Added Net: Name=NetU1_A18
+Added Pin To Net: NetName=NetU1_AA13 Pin=U1-AA13
+Added Pin To Net: NetName=NetU1_AA13 Pin=U1-AA16
+Added Pin To Net: NetName=NetU1_AA13 Pin=U1-C14
+Added Pin To Net: NetName=NetU1_AA13 Pin=U1-C15
+Added Pin To Net: NetName=NetU1_AA13 Pin=U1-C16
+Added Pin To Net: NetName=NetU1_AA13 Pin=U1-C17
+Added Pin To Net: NetName=NetU1_AA13 Pin=U1-C18
+Added Pin To Net: NetName=NetU1_AA13 Pin=U1-D19
+Added Pin To Net: NetName=NetU1_AA13 Pin=U1-M5
+Added Pin To Net: NetName=NetU1_AA13 Pin=U1-P5
+Added Pin To Net: NetName=NetU1_AA13 Pin=U1-Y13
+Added Pin To Net: NetName=NetU1_AA13 Pin=U1-Y14
+Added Pin To Net: NetName=NetU1_AA13 Pin=U1-Y15
+Added Net: Name=NetU1_AA13
+Added Pin To Net: NetName=NetU1_AB13 Pin=U1-AB13
+Added Pin To Net: NetName=NetU1_AB13 Pin=U1-AB16
+Added Net: Name=NetU1_AB13
+Added Pin To Net: NetName=NetU1_E18 Pin=U1-E18
+Added Pin To Net: NetName=NetU1_E18 Pin=U1-F17
+Added Pin To Net: NetName=NetU1_E18 Pin=U1-G16
+Added Pin To Net: NetName=NetU1_E18 Pin=U1-H17
+Added Pin To Net: NetName=NetU1_E18 Pin=U1-J16
+Added Pin To Net: NetName=NetU1_E18 Pin=U1-K17
+Added Pin To Net: NetName=NetU1_E18 Pin=U1-L16
+Added Pin To Net: NetName=NetU1_E18 Pin=U1-M17
+Added Pin To Net: NetName=NetU1_E18 Pin=U1-N16
+Added Pin To Net: NetName=NetU1_E18 Pin=U1-P17
+Added Pin To Net: NetName=NetU1_E18 Pin=U1-R16
+Added Pin To Net: NetName=NetU1_E18 Pin=U1-T17
+Added Pin To Net: NetName=NetU1_E18 Pin=U1-U16
+Added Pin To Net: NetName=NetU1_E18 Pin=U1-V17
+Added Pin To Net: NetName=NetU1_E18 Pin=U1-W18
+Added Pin To Net: NetName=NetU1_E18 Pin=U1-Y19
+Added Net: Name=NetU1_E18
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-H9
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-H11
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-H13
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-H15
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-J8
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-J10
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-J12
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-J14
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-K9
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-K11
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-K13
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-K15
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-L8
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-L10
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-L12
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-L14
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-M11
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-M13
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-M15
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-N12
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-N14
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-P13
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-P15
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-R14
+Added Pin To Net: NetName=NetU1_H9 Pin=U1-T15
+Added Net: Name=NetU1_H9
+Added Pin To Net: NetName=NetU1_M9 Pin=U1-M9
+Added Pin To Net: NetName=NetU1_M9 Pin=U1-N8
+Added Pin To Net: NetName=NetU1_M9 Pin=U1-N10
+Added Pin To Net: NetName=NetU1_M9 Pin=U1-P9
+Added Pin To Net: NetName=NetU1_M9 Pin=U1-P11
+Added Pin To Net: NetName=NetU1_M9 Pin=U1-R10
+Added Pin To Net: NetName=NetU1_M9 Pin=U1-R12
+Added Pin To Net: NetName=NetU1_M9 Pin=U1-T13
+Added Pin To Net: NetName=NetU1_M9 Pin=U1-U12
+Added Pin To Net: NetName=NetU1_M9 Pin=U1-U14
+Added Net: Name=NetU1_M9
+Added Pin To Net: NetName=RESET Pin=C?-2
+Added Pin To Net: NetName=RESET Pin=R?-2
+Added Pin To Net: NetName=RESET Pin=U?-K5
+Added Net: Name=RESET
+Added Pin To Net: NetName=VCC_3.3V Pin=C103-2
+Added Pin To Net: NetName=VCC_3.3V Pin=C103-2
+Added Pin To Net: NetName=VCC_3.3V Pin=C104-2
+Added Pin To Net: NetName=VCC_3.3V Pin=C104-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R?-1
+Added Pin To Net: NetName=VCC_3.3V Pin=U?-C6
+Added Pin To Net: NetName=VCC_3.3V Pin=U?-E6
+Added Pin To Net: NetName=VCC_3.3V Pin=U?-F5
+Added Pin To Net: NetName=VCC_3.3V Pin=U?-J10
+Added Pin To Net: NetName=VCC_3.3V Pin=U?-K9
+Added Pin To Net: NetName=VCC_3.3V Pin=U?-M4
+Added Pin To Net: NetName=VCC_3.3V Pin=U?-N4
+Added Pin To Net: NetName=VCC_3.3V Pin=U?-P3
+Added Pin To Net: NetName=VCC_3.3V Pin=U?-P5
+Added Net: Name=VCC_3.3V
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=C49-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=C50-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=C51-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=C52-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=C53-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=C54-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=C55-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=C56-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=C57-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=C58-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=C59-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=C60-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=C61-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=C62-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=C63-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=C64-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=C65-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=C66-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=C67-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=R27-2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U3-A1
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U3-A8
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U3-B2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U3-C1
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U3-C9
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U3-D2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U3-D9
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U3-E9
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U3-F1
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U3-G7
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U3-H2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U3-H9
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U3-K2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U3-K8
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U3-N1
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U3-N9
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U3-R1
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U3-R9
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U4-A1
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U4-A8
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U4-B2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U4-C1
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U4-C9
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U4-D2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U4-D9
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U4-E9
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U4-F1
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U4-G7
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U4-H2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U4-H9
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U4-K2
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U4-K8
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U4-N1
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U4-N9
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U4-R1
+Added Pin To Net: NetName=VCC_DDR_1.35V Pin=U4-R9
+Added Net: Name=VCC_DDR_1.35V
+Added Pin To Net: NetName=VCC_DDR_VREF Pin=C45-2
+Added Pin To Net: NetName=VCC_DDR_VREF Pin=C46-2
+Added Pin To Net: NetName=VCC_DDR_VREF Pin=C47-2
+Added Pin To Net: NetName=VCC_DDR_VREF Pin=C48-2
+Added Pin To Net: NetName=VCC_DDR_VREF Pin=C67-1
+Added Pin To Net: NetName=VCC_DDR_VREF Pin=C68-2
+Added Pin To Net: NetName=VCC_DDR_VREF Pin=R27-1
+Added Pin To Net: NetName=VCC_DDR_VREF Pin=R30-2
+Added Pin To Net: NetName=VCC_DDR_VREF Pin=U3-H1
+Added Pin To Net: NetName=VCC_DDR_VREF Pin=U3-M8
+Added Pin To Net: NetName=VCC_DDR_VREF Pin=U4-H1
+Added Pin To Net: NetName=VCC_DDR_VREF Pin=U4-M8
+Added Net: Name=VCC_DDR_VREF
+Added Class: Name=BTB
+Added Member To Class: ClassName=DDR Member=Component C45 100nF
+Added Member To Class: ClassName=DDR Member=Component C46 100nF
+Added Member To Class: ClassName=DDR Member=Component C47 100nF
+Added Member To Class: ClassName=DDR Member=Component C48 100nF
+Added Member To Class: ClassName=DDR Member=Component C49 10uF
+Added Member To Class: ClassName=DDR Member=Component C50 1uF
+Added Member To Class: ClassName=DDR Member=Component C51 1uF
+Added Member To Class: ClassName=DDR Member=Component C52 100nF
+Added Member To Class: ClassName=DDR Member=Component C53 100nF
+Added Member To Class: ClassName=DDR Member=Component C54 100nF
+Added Member To Class: ClassName=DDR Member=Component C55 100nF
+Added Member To Class: ClassName=DDR Member=Component C56 100nF
+Added Member To Class: ClassName=DDR Member=Component C57 100nF
+Added Member To Class: ClassName=DDR Member=Component C58 10uF
+Added Member To Class: ClassName=DDR Member=Component C59 1uF
+Added Member To Class: ClassName=DDR Member=Component C60 1uF
+Added Member To Class: ClassName=DDR Member=Component C61 100nF
+Added Member To Class: ClassName=DDR Member=Component C62 100nF
+Added Member To Class: ClassName=DDR Member=Component C63 100nF
+Added Member To Class: ClassName=DDR Member=Component C64 100nF
+Added Member To Class: ClassName=DDR Member=Component C65 100nF
+Added Member To Class: ClassName=DDR Member=Component C66 100nF
+Added Member To Class: ClassName=DDR Member=Component C67 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C68 0.1uF
+Added Member To Class: ClassName=EMMC Member=Component C103 10uF
+Added Member To Class: ClassName=EMMC Member=Component C103 10uF
+Added Member To Class: ClassName=EMMC Member=Component C103 1uF
+Added Member To Class: ClassName=EMMC Member=Component C104 100nF
+Added Member To Class: ClassName=EMMC Member=Component C104 100nF
+Added Member To Class: ClassName=EMMC Member=Component C104 100nF
+Added Member To Class: ClassName=EMMC Member=Component C? 10uF
+Added Member To Class: ClassName=DDR Member=Component R14 240R
+Added Member To Class: ClassName=DDR Member=Component R15 240R
+Added Member To Class: ClassName=DDR Member=Component R18 100R
+Added Member To Class: ClassName=DDR Member=Component R27 1K
+Added Member To Class: ClassName=DDR Member=Component R30 1K
+Added Member To Class: ClassName=EMMC Member=Component R? 10K
+Added Member To Class: ClassName=DDR Member=Component U3 NT5CC256M16EP-EKI
+Added Member To Class: ClassName=DDR Member=Component U4 NT5CC256M16EP-EKI

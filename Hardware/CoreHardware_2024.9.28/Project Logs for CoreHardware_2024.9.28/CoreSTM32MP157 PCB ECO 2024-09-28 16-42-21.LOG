@@ -1,0 +1,5 @@
+Added Component: Designator=U?(BGA96)
+Added Component: Designator=U?(BGA96)
+Change Class Name : Old Net Name=EMMC New Net Name=DDR
+Added Class: Name=EMMC
+Added Member To Class: ClassName=DDR Member=Component U? NT5CC256M16EP-EKI

@@ -1,0 +1,13 @@
+Added Component: Designator=U?(QFN40 5X5_N)
+Added Class: Name=PHY
+Added Member To Class: ClassName=EMMC Member=Component C103 10uF
+Added Member To Class: ClassName=EMMC Member=Component C103 1uF
+Added Member To Class: ClassName=EMMC Member=Component C104 100nF
+Added Member To Class: ClassName=EMMC Member=Component C104 100nF
+Added Member To Class: ClassName=BTB Member=Component JP? 3710F_2*50
+Added Member To Class: ClassName=EMMC Member=Component U? KLM8G1GETF-B041
+Added Room: Name=BTB
+Added Room: Name=CPU_CORE1
+Added Room: Name=DDR
+Added Room: Name=EMMC
+Added Room: Name=PHY

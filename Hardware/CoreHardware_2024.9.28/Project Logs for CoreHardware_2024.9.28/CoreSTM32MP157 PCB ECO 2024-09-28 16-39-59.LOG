@@ -1,0 +1,4 @@
+Added Component: Designator=U1(LFBGA448)
+Added Component: Designator=U2(BGA153  EMMC)
+Added Member To Class: ClassName=CPU_CORE1 Member=Component U1 STM32MP175DAA1
+Added Member To Class: ClassName=EMMC Member=Component U2 KLM8G1GETF-B041

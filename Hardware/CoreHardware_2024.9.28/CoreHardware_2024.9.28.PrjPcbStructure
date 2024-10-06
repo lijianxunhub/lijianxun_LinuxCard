@@ -1,0 +1,9 @@
+Record=TopLevelDocument|FileName=BTB.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=BTB.SchDoc|FileName=CPU_CORE1.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BTB.SchDoc|FileName=CPU_CORE2.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BTB.SchDoc|FileName=CPU_DDR.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=BTB.SchDoc|FileName=CPU_POWER.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=BTB.SchDoc|FileName=DDR.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=BTB.SchDoc|FileName=EMMC.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=BTB.SchDoc|FileName=PHY.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=BTB.SchDoc|FileName=POWER.SchDoc|SheetNumber=5
